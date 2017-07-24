@@ -35,6 +35,7 @@ This is just a beginning.
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Electronics Tutorials](http://www.electronics-tutorials.ws/)
 - [Instructables](http://www.instructables.com/)
+- [Soldering Is Easy - Comic Book](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
 
 ### Video Resources
 
