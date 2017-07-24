@@ -6,10 +6,14 @@ This is just a beginning.
 
 ### Books
 
-- [The Art of Electronics](https://artofelectronics.net/)
+- [Encyclopedia of Electronic Components Volume 1](https://www.amazon.com/Encyclopedia-Electronic-Components-Capacitors-Transistors/dp/1449333893)
+- [Encyclopedia of Electronic Components Volume 2](https://www.amazon.com/Encyclopedia-Electronic-Components-Thyristors-Amplification/dp/1449334180)
 - [Getting Started in Electronics](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282)
+- [How to Diagnose and Fix Everything Electronic](https://www.amazon.com/How-Diagnose-Everything-Electronic-Second/dp/0071848290)
 - [Make Electronics: Learning Through Discovery](https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263)
-- [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) 
+- [Make: More Electronics: Journey Deep Into the World of Logic Chips, Amplifiers, Sensors, and Randomicity](https://www.amazon.com/Make-Electronics-Journey-Amplifiers-Randomicity/dp/1449344046)
+- [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
+- [The Art of Electronics](https://artofelectronics.net/)
 
 ### Courses
 
