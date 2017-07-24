@@ -30,6 +30,7 @@ This is just a beginning.
 
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Electronics Tutorials](http://www.electronics-tutorials.ws/)
+- [Instructables](http://www.instructables.com/)
 
 ### Video Resources
 
