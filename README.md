@@ -17,6 +17,7 @@ This is just a beginning.
 
 ### Courses
 
+- [All About Circuits - Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/)
 - [Digilent Real Analog](https://learn.digilentinc.com/classroom/realanalog/)
 
 ### Platforms
@@ -29,6 +30,8 @@ This is just a beginning.
 ### Projects Resources
 
 - [Electronics Lab](http://www.electronics-lab.com/)
+- [Hackaday.io](https://hackaday.io/)
+- [Kitnic](https://kitnic.it/)
 
 ### Tutorials
 
