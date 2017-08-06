@@ -1,4 +1,4 @@
-# awesome-electronics
+# awesome-electronics [![Build Status](https://travis-ci.org/techgaun/awesome-electronics.svg?branch=master)](https://travis-ci.org/techgaun/awesome-electronics)
 
 > My personal list of electronics resources for DIY
 
