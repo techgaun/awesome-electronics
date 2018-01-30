@@ -14,6 +14,7 @@ This is just a beginning.
 - [Make: More Electronics: Journey Deep Into the World of Logic Chips, Amplifiers, Sensors, and Randomicity](https://www.amazon.com/Make-Electronics-Journey-Amplifiers-Randomicity/dp/1449344046)
 - [Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 - [The Art of Electronics](https://artofelectronics.net/)
+- [The Intel Microprocessors](https://userpages.umbc.edu/~squire/intel_book.pdf)
 
 ### Courses
 
