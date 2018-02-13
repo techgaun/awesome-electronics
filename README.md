@@ -8,6 +8,7 @@ This is just a beginning.
 
 - [Encyclopedia of Electronic Components Volume 1](https://www.amazon.com/Encyclopedia-Electronic-Components-Capacitors-Transistors/dp/1449333893)
 - [Encyclopedia of Electronic Components Volume 2](https://www.amazon.com/Encyclopedia-Electronic-Components-Thyristors-Amplification/dp/1449334180)
+- [Explain That Stuff](http://www.explainthatstuff.com/)
 - [Getting Started in Electronics](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282)
 - [How to Diagnose and Fix Everything Electronic](https://www.amazon.com/How-Diagnose-Everything-Electronic-Second/dp/0071848290)
 - [Make Electronics: Learning Through Discovery](https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263)
@@ -32,12 +33,12 @@ This is just a beginning.
 
 - [Electronics Lab](http://www.electronics-lab.com/)
 - [Hackaday.io](https://hackaday.io/)
-- [Kitnic](https://kitnic.it/)
+- [Kitspace](https://kitspace.org/)
 
 ### Tutorials
 
 - [All About Circuits](https://www.allaboutcircuits.com/)
-- [Electronics Tutorials](http://www.electronics-tutorials.ws/)
+- [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [Instructables](http://www.instructables.com/)
 - [Soldering Is Easy - Comic Book](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
 
