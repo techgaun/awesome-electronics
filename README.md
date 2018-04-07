@@ -6,6 +6,7 @@ This is just a beginning.
 
 ### Books
 
+- [Designing Embedded Hardware](https://www.amazon.com/Designing-Embedded-Hardware-Computers-Devices/dp/0596007558)
 - [Encyclopedia of Electronic Components Volume 1](https://www.amazon.com/Encyclopedia-Electronic-Components-Capacitors-Transistors/dp/1449333893)
 - [Encyclopedia of Electronic Components Volume 2](https://www.amazon.com/Encyclopedia-Electronic-Components-Thyristors-Amplification/dp/1449334180)
 - [Explain That Stuff](http://www.explainthatstuff.com/)
