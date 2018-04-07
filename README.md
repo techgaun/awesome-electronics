@@ -41,7 +41,8 @@ This is just a beginning.
 - [All About Circuits](https://www.allaboutcircuits.com/)
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [Instructables](http://www.instructables.com/)
-- [Soldering Is Easy - Comic Book](http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
+- [Soldering Is Easy - Comic Book](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
+- [Using an Oscilloscope](http://faculty.uml.edu/dbowden/ClassPages/0_Common_Library/Lab%20Manuals/Using%20an%20Oscilloscope.pdf)
 
 ### Video Resources
 
