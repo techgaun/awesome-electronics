@@ -42,8 +42,10 @@ This is just a beginning.
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [Instructables](http://www.instructables.com/)
 - [Soldering Is Easy - Comic Book](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
+- [Sparkfun Tutorials](https://learn.sparkfun.com/)
 - [Using an Oscilloscope](http://faculty.uml.edu/dbowden/ClassPages/0_Common_Library/Lab%20Manuals/Using%20an%20Oscilloscope.pdf)
 
 ### Video Resources
 
+- [Multimeter Tutorial by Afrotechmods](https://www.youtube.com/watch?v=bF3OyQ3HwfU)
 - [Soldering Classic Videos](https://www.youtube.com/watch?v=vIT4ra6Mo0s&list=PL926EC0F1F93C1837)
