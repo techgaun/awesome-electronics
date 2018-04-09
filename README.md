@@ -35,6 +35,7 @@ This is just a beginning.
 - [Electronics Lab](http://www.electronics-lab.com/)
 - [Hackaday.io](https://hackaday.io/)
 - [Kitspace](https://kitspace.org/)
+- [Maker Pro](https://maker.pro)
 
 ### Tutorials
 
