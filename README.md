@@ -48,5 +48,6 @@ This is just a beginning.
 
 ### Video Resources
 
+- [How to Use a Multimeter by SparkFun Electrics](https://www.youtube.com/watch?v=SLkPtmnglOI)
 - [Multimeter Tutorial by Afrotechmods](https://www.youtube.com/watch?v=bF3OyQ3HwfU)
 - [Soldering Classic Videos](https://www.youtube.com/watch?v=vIT4ra6Mo0s&list=PL926EC0F1F93C1837)
