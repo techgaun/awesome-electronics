@@ -40,6 +40,7 @@ This is just a beginning.
 ### Tutorials
 
 - [All About Circuits](https://www.allaboutcircuits.com/)
+- [Electronics Explained In Simple Ways](https://www.build-electronic-circuits.com/)
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [Instructables](http://www.instructables.com/)
 - [Soldering Is Easy - Comic Book](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
