@@ -37,6 +37,10 @@ This is just a beginning.
 - [Kitspace](https://kitspace.org/)
 - [Maker Pro](https://maker.pro)
 
+#### LED Lighting
+
+- [RGB Pixel Light Power Calculator](http://spikerlights.com/calcpower.aspx)
+
 ### Tutorials
 
 - [All About Circuits](https://www.allaboutcircuits.com/)
@@ -52,3 +56,7 @@ This is just a beginning.
 - [How to Use a Multimeter by SparkFun Electrics](https://www.youtube.com/watch?v=SLkPtmnglOI)
 - [Multimeter Tutorial by Afrotechmods](https://www.youtube.com/watch?v=bF3OyQ3HwfU)
 - [Soldering Classic Videos](https://www.youtube.com/watch?v=vIT4ra6Mo0s&list=PL926EC0F1F93C1837)
+
+### Misc
+
+- [Voltage Drop Calculator](http://wiresizecalculator.net/calculators/voltagedrop.htm)
