@@ -49,6 +49,7 @@ This is just a beginning.
 - [Instructables](http://www.instructables.com/)
 - [Soldering Is Easy - Comic Book](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
 - [Sparkfun Tutorials](https://learn.sparkfun.com/)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Using an Oscilloscope](http://faculty.uml.edu/dbowden/ClassPages/0_Common_Library/Lab%20Manuals/Using%20an%20Oscilloscope.pdf)
 
 ### Video Resources
