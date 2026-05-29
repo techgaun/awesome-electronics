@@ -29,6 +29,7 @@ This is just a beginning.
 - [Circuito.io](https://www.circuito.io/app)
 - [Circuits.io](https://circuits.io/)
 - [Maker.io](https://www.digikey.com/en/maker)
+- [Circuit Diagram Maker](https://circuitdiagrammaker.app) - Browser-based editor for circuit and wiring diagrams with auto-routing wires and PDF/SVG/PNG export.
 
 ### Projects Resources
 
