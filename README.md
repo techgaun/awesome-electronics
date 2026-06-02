@@ -60,3 +60,4 @@ This is just a beginning.
 ### Misc
 
 - [Voltage Drop Calculator](http://wiresizecalculator.net/calculators/voltagedrop.htm)
+- [Antenna Generator](https://antennagenerator.com) - Free NFC antenna design calculator. Calculate coil dimensions, inductance, Q-factor, and impedance for ISO 14443 and ISO 15693 NFC antennas.
