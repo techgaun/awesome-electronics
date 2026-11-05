@@ -60,5 +60,6 @@ This is just a beginning.
 ### Misc
 
 - [Voltage Drop Calculator](http://wiresizecalculator.net/calculators/voltagedrop.htm)
+- [BuildWire Calc](https://buildwirecalc.com) - Free web (and Mac/Android) electrical calculators for contractors — wire sizing, voltage drop, loads, and related field math.
 - [Antenna Generator](https://antennagenerator.com) - Free NFC antenna design calculator. Calculate coil dimensions, inductance, Q-factor, and impedance for ISO 14443 and ISO 15693 NFC antennas.
 - [Speaker Wire Gauge Calculator](https://theaudiostuff.com/tools/speaker-cable-calculator/) - Speaker cable resistance, damping factor and level loss in dB for any wire gauge and length.
