@@ -62,3 +62,4 @@ This is just a beginning.
 - [Voltage Drop Calculator](http://wiresizecalculator.net/calculators/voltagedrop.htm)
 - [Antenna Generator](https://antennagenerator.com) - Free NFC antenna design calculator. Calculate coil dimensions, inductance, Q-factor, and impedance for ISO 14443 and ISO 15693 NFC antennas.
 - [Speaker Wire Gauge Calculator](https://theaudiostuff.com/tools/speaker-cable-calculator/) - Speaker cable resistance, damping factor and level loss in dB for any wire gauge and length.
+- [Engineerly](https://engineerly.pages.dev/) - Free electrical calculators (voltage drop, cable size, breaker size, generator sizing, transformer loading, power factor correction, short-circuit current, battery runtime) that show each step of the working.
